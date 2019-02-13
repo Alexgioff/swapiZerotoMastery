@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a1783cb0d898033ab5f4",
+    "revision": "a391d5b9064f69d31386",
     "url": "/swapiZerotoMastery/static/css/main.ecdff77e.chunk.css"
   },
   {
-    "revision": "a1783cb0d898033ab5f4",
-    "url": "/swapiZerotoMastery/static/js/main.a1783cb0.chunk.js"
+    "revision": "a391d5b9064f69d31386",
+    "url": "/swapiZerotoMastery/static/js/main.a391d5b9.chunk.js"
   },
   {
     "revision": "403ac9406d1ca2ce0b03",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/swapiZerotoMastery/static/media/STARWARS.95e43dd6.svg"
   },
   {
-    "revision": "efda1c2b9787e6e669a7c38a4cd11671",
+    "revision": "6c76600fac46c961c91818b9f84eca08",
     "url": "/swapiZerotoMastery/index.html"
   }
 ];

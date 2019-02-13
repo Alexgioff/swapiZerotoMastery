@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/swapiZerotoMastery/precache-manifest.811eeb58413e908838292644eaced847.js"
+  "/swapiZerotoMastery/precache-manifest.a72aee50ce0dfe07ff36624bb3b71013.js"
 );
 
 workbox.clientsClaim();
