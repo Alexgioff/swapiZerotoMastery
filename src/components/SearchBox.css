@@ -1,0 +1,10 @@
+.search:focus,
+.search:active{
+    outline: none;
+}
+
+.search{
+    border: 1px solid #ecc860;
+    border-radius: 3px;
+    padding: .75rem 1rem;
+}
